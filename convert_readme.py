@@ -19,7 +19,7 @@ Message Madhav/Abhinav if you have any doubts regarding any programs or if you h
 </details>
 """
 
-default_url = "https://github.com/Owl1029/JavaICSE/blob/main/"
+default_url = "https://github.com/ThePheoniXR/JavaICSE/blob/conditional/"
 
 def extract_description(file_path):
     """Extract the description from the first line of the file."""
