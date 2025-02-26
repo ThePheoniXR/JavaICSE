@@ -5,13 +5,13 @@
 ### conditional
 </summary>
 ahttps://github.com/Owl1029/JavaICSE/blob/main//conditional/prg17.java)
-- [Prg2 - Input two integers p and q.](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg2.java)
-- [Prg3 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg3.java)
-- [Prg4 - Check whether an item incurred Profit or Loss](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg4.java)
-- [Prg5 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg5.java)
-- [Prg6 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg6.java)
-- [Prg7 - Input length of 3 sides, and check if it can form a triangle , if so specify its](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg7.java)
-- [Prg8 - A number is called RiWi Number if last two digits are same.](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg8.java)
+- [Prg2 - Input two integers p and q.](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg2.java) <br>
+- [Prg3 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg3.java) <br>
+- [Prg4 - Check whether an item incurred Profit or Loss](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg4.java) <br>
+- [Prg5 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg5.java) <br>
+- [Prg6 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg6.java) <br>
+- [Prg7 - Input length of 3 sides, and check if it can form a triangle , if so specify its](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg7.java) <br>
+- [Prg8 - A number is called RiWi Number if last two digits are same.](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg8.java) <br>
 - [Prg9 - Entry to a club based on the Person's age](https://github.com/Owl1029/JavaICSE/blob/main//conditional/prg9.java)
 - [Sel - Accept a Number and check if it is divisible by 5 or not.](https://github.com/Owl1029/JavaICSE/blob/main//conditional/sel.java)
 - [Sel1 - No description provided](https://github.com/Owl1029/JavaICSE/blob/main//conditional/sel1.java)
